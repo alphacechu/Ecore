@@ -1,0 +1,33 @@
+WorkItem Type = Defect
+Assignet to: Business Team
+Severity: 4
+Priority 3
+
+Expected:
+According to Documentation, On login user should insert username in an "Email" field.
+Actual:
+There is no "Email" field, there is a "Username" field instead.
+
+
+
+WorkItem Type = Defect
+Assignet to: Business Team
+Severity: 4
+Priority 3
+
+Description:
+In Invoice Details screen there is a typographic error: "Deposit Nowt"
+
+
+
+WorkItem Type = Defect
+Assignet to: Business Team
+Severity: 4
+Priority 1
+
+Description:
+In Invoice Details, Billing Details, format is incorrect.
+Expected:
+19.00
+Actual:
+19
